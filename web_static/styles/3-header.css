@@ -9,9 +9,10 @@ header
 }
 header .logo
 {
-    width: 100%;
-    height: 70px;
+    width: 142px;
+    height: 60px;
     background: url("../images/logo.png"); 
     background-repeat: no-repeat;
+    background-position: center;
     padding-left: 20px;
 }
